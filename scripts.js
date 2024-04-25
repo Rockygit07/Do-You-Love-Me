@@ -2,7 +2,7 @@
 
 //click yes btn
 function clickYesButton() {
-    alert('apdi othukkooo');
+    alert('love you too bby💋');
 }
 
 //move button on hover
